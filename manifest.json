@@ -1,0 +1,11 @@
+{
+  "name": "المتخصصون لنسخ المفاتيح",
+  "short_name": "مفاتيح الباحة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1b3d",
+  "theme_color": "#0f1b3d",
+  "description": "المتخصصون لنسخ المفاتيح - أفضل محل نسخ مفاتيح في الباحة وبني سار"
+}
